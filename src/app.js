@@ -16,6 +16,6 @@ app.use((req, res, next) => {
 app.use('/api',climaRuta)
 
 
-app.listen(4000)
+app.listen(3000)
 
-console.log("server runninf on port 4000")
+console.log("server runninf on port 3000")
